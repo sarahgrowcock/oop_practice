@@ -1,5 +1,5 @@
 # Parent class
-class Vechicle:
+class Vehicle:
     
     wheels = 4 #class level atrribute to all objects
     
