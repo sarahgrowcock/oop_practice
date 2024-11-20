@@ -14,6 +14,8 @@
 
 ### Methods (Action)
 - instance method
+    - method that can be performed on the object
 - class method
+    - allows us to create and modify class level data
 - static method
 - magic method
