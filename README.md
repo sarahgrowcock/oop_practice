@@ -2,9 +2,18 @@
 
 ## Class
 
-    template (blueprint) for the creation of the object
+- template (blueprint) for the creation of the object
+
+### __int__ (initializers)
+- Use the __int__() function to assign walues to obect properties, or other operations that are necssaery....
 
 ### Attribute (Parameter)
-    description of the object
-    instance attribute (first_name)
-    class - level attribute (WSU)
+- description of the object
+- instance attribute (first_name)
+- class - level attribute (WSU)
+
+### Methods (Action)
+- instance method
+- class method
+- static method
+- magic method
